@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Autotech</string>
+
+    <string name="login">Login</string>
+    <string name="user_id">User id</string>
+    <string name="sign_up">Sign up</string>
+    <string name="passcode">passcode</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="logout">Logout</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="car_wash">CAR WASH</string>
+    <string name="type_of_wash">TYPE OF WASH</string>
+    <string name="contact_no">CONTACT NO.</string>
+    <string name="schedule_wash">SCHEDULE WASH</string>
+    <string name="car_model_no"><![CDATA[CAR MODEL& NO.]]></string>
+    <string name="book_wash">BOOK WASH</string>
+    <string name="todo">TODO</string>
+
+</resources>
